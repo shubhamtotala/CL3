@@ -1,0 +1,4 @@
+show dbs
+use mydb
+db.getCollectionNames()
+show.mycol.find()
